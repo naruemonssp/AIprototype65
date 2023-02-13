@@ -37,15 +37,4 @@ if __name__ == "__main__":
     print_ones()
 
     print(f'YVAL = {x.yval}')
-
-
-"""
-if __name__ == "__main__":
-
-    args = parse_input()
-    
-    x = args.x
-    y = args.yval
-    print(f'M = {args.m}')
-    print(f'calculate {x} x {y} = {x*y}')
-"""
+    print(f'xt = {(x.x)*2}')
