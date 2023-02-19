@@ -1,4 +1,4 @@
-import argparse #สำหรับ รับ input จากภายนอก
+import argparse #สำหรับรับ input จากภายนอก
 
 def parse_input():
     parser = argparse.ArgumentParser(description='test program to learn about argparse')
