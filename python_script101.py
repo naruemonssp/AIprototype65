@@ -2,15 +2,15 @@ import argparse #สำหรับรับ input จากภายนอก
 
 def parse_input():
     parser = argparse.ArgumentParser(description='test program to learn about argparse')
-    # parser.add_argument(
-    #     'm', 
-    #     type=int,
-    #     help='value of M positional argument')
+    parser.add_argument(
+        'm', 
+        type=int,
+        help='value of M positional argument')
 
-    # parser.add_argument(
-    #     'n', 
-    #     type=int,
-    #     help='value of M positional argument')
+    parser.add_argument(
+        'n', 
+        type=int,
+        help='value of M positional argument')
 
     parser.add_argument(
         '--x', 
