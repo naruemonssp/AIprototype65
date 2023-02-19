@@ -2,15 +2,15 @@ import argparse #สำหรับรับ input จากภายนอก
 
 def parse_input():
     parser = argparse.ArgumentParser(description='test program to learn about argparse')
-    parser.add_argument(
-        'm', 
-        type=int,
-        help='value of M positional argument')
+    # parser.add_argument(
+    #     'm', 
+    #     type=int,
+    #     help='value of M positional argument')
 
-    parser.add_argument(
-        'n', 
-        type=int,
-        help='value of M positional argument')
+    # parser.add_argument(
+    #     'n', 
+    #     type=int,
+    #     help='value of M positional argument')
 
     parser.add_argument(
         '--x', 
@@ -27,11 +27,11 @@ def parse_input():
     args = parser.parse_args()
     return args
 
-def print_other():
-    print('something else')
+# def print_other():
+#     print('something else')
 
-def print_ones():
-    print('1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ')
+# def print_ones():
+#     print('1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ')
 
 if __name__ == "__main__":
     x = parse_input()
@@ -41,5 +41,6 @@ if __name__ == "__main__":
 
     print(f'YVAL = {x.yval}')
     print(f'xt = {(x.x)*2}')
-    # print(f'm = {x.m}')
-    # print(f'n = {x.n}')
+#     # print(f'm = {x.m}')
+#     # print(f'n = {x.n}')
+
