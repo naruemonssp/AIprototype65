@@ -15,7 +15,7 @@ Naruemon Saisophon (623021050-6)
 ## Lecture 4-6 ([*link*](https://github.com/naruemonssp/AIprototype65/blob/main/Lecture%204-6.pdf))
 
 - การเรียนรู้ NN
-- Tensorflow(network) ([*Colab*](https://github.com/naruemonssp/AIprototype65/blob/main/Tensorflow(network).ipynb))
+- Tensorflow(network) ([Colab](https://github.com/naruemonssp/AIprototype65/blob/main/Tensorflow(network).ipynb))
 - การใช้งาน Ubuntu คู่กับ VScode 
 
 ---
@@ -29,7 +29,7 @@ Naruemon Saisophon (623021050-6)
 
 ## Webpage by พี่อั่ย ([*github*](https://github.com/naruemonssp/VoxelPage))
 
-- แสดงเนื้อหาโปรเจคกลุ่ม Voxel
+- แสดงเนื้อหาโปรเจคกลุ่ม Voxel ([Webpage](https://naruemonssp.github.io/VoxelPage/))
 
 ---
 
